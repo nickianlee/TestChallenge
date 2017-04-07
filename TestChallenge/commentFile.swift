@@ -8,9 +8,12 @@
 
 import Foundation
 
-
+//MARK: Nicholas comments
 
 //Nicholas comments
+//1. added NameListViewController
+//2. named the cell nameCell
+//
 
 
 
@@ -34,8 +37,6 @@ import Foundation
 
 
 
-
-
-
+//MARK: Suffian comments
 //Suffian comments
 
