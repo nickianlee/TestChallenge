@@ -14,6 +14,7 @@
 		7AF8B1111E978EF600DF77C7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7AF8B1101E978EF600DF77C7 /* GoogleService-Info.plist */; };
 		7AF8B1131E97931600DF77C7 /* commentFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AF8B1121E97931600DF77C7 /* commentFile.swift */; };
 		7AF8B1151E97940600DF77C7 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AF8B1141E97940600DF77C7 /* ChatViewController.swift */; };
+		7AF8B1171E97959900DF77C7 /* NameListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AF8B1161E97959900DF77C7 /* NameListViewController.swift */; };
 		F78BA54D14B4B94676379214 /* Pods_TestChallenge.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3731D2B7D88720B97D3EDDDF /* Pods_TestChallenge.framework */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		7AF8B1101E978EF600DF77C7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		7AF8B1121E97931600DF77C7 /* commentFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = commentFile.swift; sourceTree = "<group>"; };
 		7AF8B1141E97940600DF77C7 /* ChatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
+		7AF8B1161E97959900DF77C7 /* NameListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NameListViewController.swift; sourceTree = "<group>"; };
 		E188FEA24070EE4EB50A52E0 /* Pods-TestChallenge.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestChallenge.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestChallenge/Pods-TestChallenge.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -65,6 +67,7 @@
 		7AF8B0FB1E97817500DF77C7 /* TestChallenge */ = {
 			isa = PBXGroup;
 			children = (
+				7AF8B1161E97959900DF77C7 /* NameListViewController.swift */,
 				7AF8B0FC1E97817500DF77C7 /* AppDelegate.swift */,
 				7AF8B1001E97817500DF77C7 /* Main.storyboard */,
 				7AF8B1141E97940600DF77C7 /* ChatViewController.swift */,
@@ -221,6 +224,7 @@
 				7AF8B1131E97931600DF77C7 /* commentFile.swift in Sources */,
 				7AF8B1151E97940600DF77C7 /* ChatViewController.swift in Sources */,
 				7AF8B0FD1E97817500DF77C7 /* AppDelegate.swift in Sources */,
+				7AF8B1171E97959900DF77C7 /* NameListViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
