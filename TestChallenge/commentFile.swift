@@ -13,7 +13,8 @@ import Foundation
 //Nicholas comments
 //1. added NameListViewController
 //2. named the cell nameCell
-//
+//3. added outlets to the the viewcontroller 
+
 
 
 
