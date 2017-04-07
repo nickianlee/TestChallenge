@@ -12,6 +12,7 @@
 		7AF8B1021E97817500DF77C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7AF8B1001E97817500DF77C7 /* Main.storyboard */; };
 		7AF8B1041E97817500DF77C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AF8B1031E97817500DF77C7 /* Assets.xcassets */; };
 		7AF8B1071E97817500DF77C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7AF8B1051E97817500DF77C7 /* LaunchScreen.storyboard */; };
+		7AF8B1111E978EF600DF77C7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7AF8B1101E978EF600DF77C7 /* GoogleService-Info.plist */; };
 		F78BA54D14B4B94676379214 /* Pods_TestChallenge.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3731D2B7D88720B97D3EDDDF /* Pods_TestChallenge.framework */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		7AF8B1031E97817500DF77C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7AF8B1061E97817500DF77C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7AF8B1081E97817500DF77C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7AF8B1101E978EF600DF77C7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E188FEA24070EE4EB50A52E0 /* Pods-TestChallenge.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestChallenge.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestChallenge/Pods-TestChallenge.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -67,6 +69,7 @@
 				7AF8B1031E97817500DF77C7 /* Assets.xcassets */,
 				7AF8B1051E97817500DF77C7 /* LaunchScreen.storyboard */,
 				7AF8B1081E97817500DF77C7 /* Info.plist */,
+				7AF8B1101E978EF600DF77C7 /* GoogleService-Info.plist */,
 			);
 			path = TestChallenge;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7AF8B1071E97817500DF77C7 /* LaunchScreen.storyboard in Resources */,
+				7AF8B1111E978EF600DF77C7 /* GoogleService-Info.plist in Resources */,
 				7AF8B1041E97817500DF77C7 /* Assets.xcassets in Resources */,
 				7AF8B1021E97817500DF77C7 /* Main.storyboard in Resources */,
 			);
