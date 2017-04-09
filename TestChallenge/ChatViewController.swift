@@ -7,16 +7,24 @@
 //
 
 import UIKit
-import FirebaseDatabase
+import Firebase
+import JSQMessagesViewController
 
-class ChatViewController: UIViewController {
-    @IBOutlet weak var messageTextView: UITextView!
+var channelRef: FIRDatabaseReference?
+var userName: Name?{
+didSet{
+    
+    title.userName?.name
 
-    @IBOutlet weak var chatTextField: UITextField!
+    }
+}
+
+class ChatViewController: JSQMessagesViewController {
+  
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        
     }
 
     

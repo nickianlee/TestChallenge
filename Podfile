@@ -8,5 +8,6 @@ target 'TestChallenge' do
   # Pods for TestChallenge
     pod 'Firebase/Core'
     pod 'Firebase/Database'
+    pod ‘JSQMessagesViewController’
 
 end
